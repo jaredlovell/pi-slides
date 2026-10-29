@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Slideshow
+Exec=bash -c "/home/jlovell/slideshow_media.sh > /home/jlovell/autostart.log 2>&1"
+Terminal=true
+
